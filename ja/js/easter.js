@@ -178,7 +178,7 @@ function fly(obj) {
               <p> ${text} </p>
             </div>
             <div class="modal-footer">
-              <button type="button" class="btn btn-primary" data-dismiss="modal" onClick="reset()">再玩一次</button>
+              <button type="button" class="btn btn-primary" data-dismiss="modal" onClick="reset()">もう一度</button>
             </div>
           </div>
         </div>
